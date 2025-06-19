@@ -227,4 +227,3 @@ Drupal.settings.spotlight_settings = Drupal.settings.spotlight_settings || {};
   };
 
 })(jQuery);
-;

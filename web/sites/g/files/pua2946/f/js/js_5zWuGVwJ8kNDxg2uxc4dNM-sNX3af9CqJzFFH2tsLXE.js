@@ -580,4 +580,3 @@ Drupal.behaviors.mathjaxBehavior = {
     });
   }
 };
-;
